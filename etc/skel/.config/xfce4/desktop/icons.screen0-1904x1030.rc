@@ -17,16 +17,16 @@ col=0
 row=0
 col=0
 
-[/home/test/Desktop/StormOS_mirrors.desktop]
-row=7
-col=0
-
 [/home/test/Desktop/walls]
 row=0
 col=1
 
 [/home/test/Desktop/stormos-kernel-manager.desktop]
 row=6
+col=0
+
+[/home/test/Desktop/StormOS_mirrors.desktop]
+row=7
 col=0
 
 [/home/test/Desktop/stormos]

@@ -1,6 +1,10 @@
 [xfdesktop-version-4.10.3+-rcfile_format]
 4.10.3+=true
 
+[/home/test/Desktop/stormos-vida-wallpapers]
+row=3
+col=1
+
 [/home/test/Desktop/stuff]
 row=4
 col=0
@@ -9,8 +13,12 @@ col=0
 row=2
 col=0
 
-[/home/test/Desktop/stormos_video_recorder.desktop]
-row=5
+[/home/test/Desktop/stormos-vida-icons]
+row=1
+col=1
+
+[/home/test/Desktop/StormOS_mirrors.desktop]
+row=7
 col=0
 
 [/home/test/Desktop/StormOS_Builder]
@@ -21,16 +29,20 @@ col=0
 row=0
 col=1
 
+[/home/test/Desktop/stormos-vida-config]
+row=3
+col=0
+
 [/home/test/Desktop/stormos-kernel-manager.desktop]
 row=6
 col=0
 
-[/home/test/Desktop/StormOS_mirrors.desktop]
-row=7
-col=0
+[/home/test/Desktop/stormos-vida-themes]
+row=2
+col=1
 
-[/home/test/Desktop/stormos]
-row=3
+[/home/test/Desktop/stormos_video_recorder.desktop]
+row=5
 col=0
 
 [/home/test/Desktop/stormos-vida-xfce-desktop-configs]

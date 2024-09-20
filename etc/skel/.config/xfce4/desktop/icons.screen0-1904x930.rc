@@ -41,10 +41,6 @@ col=0
 row=2
 col=1
 
-[/home/test/Desktop/stormos_video_recorder.desktop]
-row=5
-col=0
-
 [/home/test/Desktop/stormos-vida-xfce-desktop-configs]
 row=1
 col=0
@@ -52,4 +48,8 @@ col=0
 [/home/test/Desktop/system-tool.desktop]
 row=4
 col=1
+
+[/home/test/Desktop/StormOS_Recorder.desktop]
+row=5
+col=0
 

@@ -143,8 +143,9 @@
       <property name="show-button-title" type="bool" value="true"/>
       <property name="button-title" type="string" value="StormOS"/>
       <property name="hover-switch-category" type="bool" value="true"/>
-      <property name="button-icon" type="string" value="storm os"/>
+      <property name="button-icon" type="string" value="Lightning_Logo1"/>
       <property name="recent" type="array">
+        <value type="string" value="virtualbox.desktop"/>
         <value type="string" value="discord.desktop"/>
         <value type="string" value="thunar.desktop"/>
         <value type="string" value="xfce-wmtweaks-settings.desktop"/>
@@ -154,7 +155,6 @@
         <value type="string" value="steam-native.desktop"/>
         <value type="string" value="xfce-display-settings.desktop"/>
         <value type="string" value="xfce4-terminal.desktop"/>
-        <value type="string" value="mpv.desktop"/>
       </property>
     </property>
     <property name="plugin-15" type="string" value="separator">

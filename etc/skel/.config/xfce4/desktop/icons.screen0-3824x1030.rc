@@ -9,16 +9,8 @@ col=0
 row=2
 col=0
 
-[/home/ben/Desktop/StormOS_Download_Manager.desktop]
-row=5
-col=0
-
 [/home/ben/Desktop/StormOS_mirrors.desktop]
 row=3
-col=0
-
-[/home/ben/Desktop/steam.desktop]
-row=6
 col=0
 
 [/home/ben/Desktop/StormOS_Recorder.desktop]
@@ -27,5 +19,13 @@ col=0
 
 [/home/ben/Desktop/StormOS_Python_Manager.desktop]
 row=1
+col=0
+
+[/home/ben/Desktop/StormOS_Download_Manager.desktop]
+row=5
+col=0
+
+[/home/ben/Desktop/steam.desktop]
+row=6
 col=0
 

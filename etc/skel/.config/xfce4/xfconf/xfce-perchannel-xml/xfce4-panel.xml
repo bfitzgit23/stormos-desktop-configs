@@ -4,7 +4,6 @@
   <property name="configver" type="int" value="2"/>
   <property name="panels" type="array">
     <value type="int" value="1"/>
-    <value type="int" value="2"/>
     <property name="panel-1" type="empty">
       <property name="position" type="string" value="p=8;x=956;y=979"/>
       <property name="length" type="uint" value="100"/>
@@ -42,23 +41,6 @@
       </property>
     </property>
     <property name="dark-mode" type="bool" value="false"/>
-    <property name="panel-2" type="empty">
-      <property name="position" type="string" value="p=11;x=948;y=25"/>
-      <property name="size" type="uint" value="48"/>
-      <property name="background-style" type="uint" value="1"/>
-      <property name="autohide-behavior" type="uint" value="1"/>
-      <property name="length" type="double" value="1"/>
-      <property name="position-locked" type="bool" value="true"/>
-      <property name="plugin-ids" type="array">
-        <value type="int" value="1"/>
-      </property>
-      <property name="background-rgba" type="array">
-        <value type="double" value="0.0078431372549019607"/>
-        <value type="double" value="0.011764705882352941"/>
-        <value type="double" value="0.011764705882352941"/>
-        <value type="double" value="1"/>
-      </property>
-    </property>
   </property>
   <property name="plugins" type="empty">
     <property name="plugin-2" type="string" value="tasklist">
@@ -88,6 +70,7 @@
         <value type="string" value="networkmanager applet"/>
       </property>
       <property name="known-items" type="array">
+        <value type="string" value="Optimus Manager Qt"/>
         <value type="string" value="remmina-icon"/>
         <value type="string" value="zoom"/>
         <value type="string" value="vlc"/>
@@ -162,22 +145,21 @@
       <property name="hover-switch-category" type="bool" value="true"/>
       <property name="button-icon" type="string" value="storm os"/>
       <property name="recent" type="array">
-        <value type="string" value="mpv.desktop"/>
-        <value type="string" value="vivaldi-stable.desktop"/>
-        <value type="string" value="qt5ct.desktop"/>
-        <value type="string" value="kvantummanager.desktop"/>
-        <value type="string" value="xfce-display-settings.desktop"/>
-        <value type="string" value="octopi.desktop"/>
-        <value type="string" value="octopi-notifier.desktop"/>
+        <value type="string" value="discord.desktop"/>
+        <value type="string" value="thunar.desktop"/>
+        <value type="string" value="xfce-wmtweaks-settings.desktop"/>
+        <value type="string" value="xfce-wm-settings.desktop"/>
         <value type="string" value="xfce-session-settings.desktop"/>
+        <value type="string" value="io.optimus_manager.OptimusManagerQt.desktop"/>
+        <value type="string" value="steam-native.desktop"/>
+        <value type="string" value="xfce-display-settings.desktop"/>
         <value type="string" value="xfce4-terminal.desktop"/>
-        <value type="string" value="xfce4-mime-settings.desktop"/>
+        <value type="string" value="mpv.desktop"/>
       </property>
     </property>
     <property name="plugin-15" type="string" value="separator">
       <property name="style" type="uint" value="0"/>
     </property>
-    <property name="plugin-1" type="string" value="docklike"/>
     <property name="plugin-4" type="string" value="launcher">
       <property name="items" type="array">
         <value type="string" value="17263762241.desktop"/>

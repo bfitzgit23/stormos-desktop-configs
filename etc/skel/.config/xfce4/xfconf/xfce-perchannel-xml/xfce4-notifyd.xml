@@ -7,6 +7,7 @@
     <property name="known_applications" type="array">
       <value type="string" value="CachyOS Update"/>
       <value type="string" value="chromium"/>
+      <value type="string" value="discord"/>
       <value type="string" value="fish"/>
       <value type="string" value="nm-applet"/>
       <value type="string" value="Package Manager"/>

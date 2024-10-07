@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=StomOS Package Manager
+Comment=
+Exec=/usr/bin/StormOS_Package_Manager
+Icon=package-install
+Path=
+Terminal=false
+StartupNotify=false
+GenericName=package management for stormos

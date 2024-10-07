@@ -1,39 +1,43 @@
 [xfdesktop-version-4.10.3+-rcfile_format]
 4.10.3+=true
 
-[/home/ben/Desktop/stormos-kernel-manager.desktop]
-row=4
-col=0
-
-[/home/ben/Desktop/system-tool.desktop]
-row=2
-col=0
-
-[/home/ben/Desktop/steam.desktop]
-row=6
-col=0
-
-[/home/ben/Desktop/StormOS_Recorder.desktop]
+[/home/bennji/Desktop/system-tool.desktop]
 row=0
 col=0
 
-[/home/ben/Desktop/StormOS_Python_Manager.desktop]
-row=1
-col=0
-
-[/home/ben/Desktop/StormOS-ISO]
-row=7
-col=0
-
-[/home/ben/Desktop/StormOS_mirrors.desktop]
+[/home/bennji/Desktop/stormos-kernel-manager.desktop]
 row=3
 col=0
 
-[/home/ben/Desktop/StormOS_Download_Manager.desktop]
+[/home/bennji/Desktop/StormOS_Recorder.desktop]
 row=5
 col=0
 
-[/home/ben/Desktop/stormos-build-files]
+[/home/bennji/Desktop/StormOS_Download_Manager.desktop]
+row=1
+col=0
+
+[/home/bennji/Desktop/stormos]
+row=7
+col=0
+
+[/home/bennji/Desktop/StormOS_Python_Manager.desktop]
+row=4
+col=0
+
+[/home/bennji/Desktop/StomOS Package Manager.desktop]
+row=6
+col=0
+
+[/home/bennji/Desktop/StormOS_mirrors.desktop]
+row=2
+col=0
+
+[/home/bennji/Desktop/stormos-build-files]
 row=8
 col=0
+
+[/home/bennji/Desktop/stormos-vida-xfce-desktop-configs]
+row=0
+col=1
 

@@ -12,8 +12,7 @@
       <property name="size" type="uint" value="34"/>
       <property name="plugin-ids" type="array">
         <value type="int" value="7"/>
-        <value type="int" value="18"/>
-        <value type="int" value="4"/>
+        <value type="int" value="1"/>
         <value type="int" value="22"/>
         <value type="int" value="19"/>
         <value type="int" value="15"/>
@@ -121,9 +120,6 @@
       <property name="style" type="uint" value="0"/>
       <property name="expand" type="bool" value="true"/>
     </property>
-    <property name="plugin-18" type="string" value="separator">
-      <property name="style" type="uint" value="0"/>
-    </property>
     <property name="plugin-19" type="string" value="launcher">
       <property name="items" type="array">
         <value type="string" value="15657829131.desktop"/>
@@ -145,24 +141,24 @@
       <property name="hover-switch-category" type="bool" value="true"/>
       <property name="button-icon" type="string" value="Lightning_Logo1"/>
       <property name="recent" type="array">
-        <value type="string" value="virtualbox.desktop"/>
+        <value type="string" value="ccsm.desktop"/>
+        <value type="string" value="compiz-gtk-decorator-theme-selector.desktop"/>
         <value type="string" value="discord.desktop"/>
+        <value type="string" value="chromium.desktop"/>
+        <value type="string" value="xfce4-terminal.desktop"/>
         <value type="string" value="thunar.desktop"/>
         <value type="string" value="xfce-wmtweaks-settings.desktop"/>
         <value type="string" value="xfce-wm-settings.desktop"/>
         <value type="string" value="xfce-session-settings.desktop"/>
-        <value type="string" value="io.optimus_manager.OptimusManagerQt.desktop"/>
-        <value type="string" value="steam-native.desktop"/>
         <value type="string" value="xfce-display-settings.desktop"/>
-        <value type="string" value="xfce4-terminal.desktop"/>
       </property>
     </property>
     <property name="plugin-15" type="string" value="separator">
       <property name="style" type="uint" value="0"/>
     </property>
-    <property name="plugin-4" type="string" value="launcher">
+    <property name="plugin-1" type="string" value="launcher">
       <property name="items" type="array">
-        <value type="string" value="17263762241.desktop"/>
+        <value type="string" value="17282643611.desktop"/>
       </property>
     </property>
   </property>

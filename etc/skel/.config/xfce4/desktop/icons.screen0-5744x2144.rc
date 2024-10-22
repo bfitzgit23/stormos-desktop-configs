@@ -9,10 +9,6 @@ col=1
 row=7
 col=1
 
-[/home/bennji/Desktop/stormos-vida-xfce-desktop-configs]
-row=8
-col=2
-
 [/home/bennji/Desktop/LFS_Hybrid_Installer.desktop]
 row=8
 col=1
@@ -20,6 +16,14 @@ col=1
 [/home/bennji/Desktop/net.lutris.battlenet-2.desktop]
 row=3
 col=0
+
+[/home/bennji/Desktop/stormos-vida-xfce-desktop-configs]
+row=8
+col=2
+
+[/home/bennji/Desktop/catalyst_stormgenz]
+row=2
+col=2
 
 [/home/bennji/Desktop/StomOS Package Manager.desktop]
 row=0
@@ -29,13 +33,13 @@ col=0
 row=1
 col=3
 
+[/home/bennji/Desktop/XPS-9500-CometLake-OpenCore]
+row=5
+col=4
+
 [/home/bennji/Desktop/StormOS_Download_Manager.desktop]
 row=5
 col=0
-
-[/home/bennji/Desktop/catalyst_stormgenz]
-row=2
-col=2
 
 [/home/bennji/Desktop/StormOS_Python_Manager.desktop]
 row=8
@@ -69,9 +73,9 @@ col=2
 row=2
 col=0
 
-[/home/bennji/Desktop/STAR WARS The Old Republic - Public Test Server.desktop]
-row=7
-col=3
+[/home/bennji/Desktop/EFI-ASUS-TGL]
+row=3
+col=4
 
 [/home/bennji/Desktop/stormos-build-files]
 row=0
@@ -84,10 +88,6 @@ col=0
 [/home/bennji/Desktop/SmashWG]
 row=3
 col=1
-
-[/home/bennji/Desktop/EFI-ASUS-TGL]
-row=3
-col=4
 
 [/home/bennji/Desktop/SWGEmu]
 row=1
@@ -137,13 +137,13 @@ col=2
 row=3
 col=3
 
-[/home/bennji/Desktop/StarWarsGalaxies]
-row=2
-col=1
-
 [/home/bennji/Desktop/ Play Swg Hopes Dawn.lnk]
 row=6
 col=3
+
+[/home/bennji/Desktop/StarWarsGalaxies]
+row=2
+col=1
 
 [/home/bennji/Desktop/EOD]
 row=8
@@ -152,6 +152,10 @@ col=3
 [/home/bennji/Desktop/STAR WARS™ Knights of the Old Republic™ II The Sith Lords™.desktop]
 row=1
 col=4
+
+[/home/bennji/Desktop/ Play Swg Hopes Dawn.desktop]
+row=7
+col=3
 
 [/home/bennji/Desktop/EFI-HP]
 row=4

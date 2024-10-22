@@ -28,6 +28,7 @@
         <value type="int" value="12"/>
         <value type="int" value="13"/>
         <value type="int" value="14"/>
+        <value type="int" value="4"/>
       </property>
       <property name="length-adjust" type="bool" value="true"/>
       <property name="background-style" type="uint" value="1"/>
@@ -64,11 +65,29 @@
       </property>
       <property name="icon-size" type="int" value="0"/>
       <property name="known-legacy-items" type="array">
+        <value type="string" value="wi-fi network connection “spirit-of-76” active: spirit-of-76 (54%)"/>
+        <value type="string" value="wi-fi network connection “spirit-of-76” active: spirit-of-76 (52%)"/>
+        <value type="string" value="wi-fi network connection “spirit-of-76” active: spirit-of-76 (46%)"/>
+        <value type="string" value="wi-fi network connection “spirit-of-76” active: spirit-of-76 (50%)"/>
+        <value type="string" value="wi-fi network connection “spirit-of-76” active: spirit-of-76 (44%)"/>
+        <value type="string" value="wi-fi network connection “spirit-of-76” active: spirit-of-76 (45%)"/>
+        <value type="string" value="wi-fi network connection “spirit-of-76” active: spirit-of-76 (86%)"/>
+        <value type="string" value="wi-fi network connection “spirit-of-76” active: spirit-of-76 (71%)"/>
+        <value type="string" value="steam"/>
+        <value type="string" value="wi-fi network connection “spirit-of-76” active: spirit-of-76 (63%)"/>
+        <value type="string" value="wi-fi network connection “spirit-of-76” active: spirit-of-76 (70%)"/>
+        <value type="string" value="wi-fi network connection “spirit-of-76” active: spirit-of-76 (65%)"/>
         <value type="string" value="ethernet network connection “wired connection 1” active"/>
         <value type="string" value="no network connection"/>
         <value type="string" value="networkmanager applet"/>
       </property>
       <property name="known-items" type="array">
+        <value type="string" value="TeamViewer"/>
+        <value type="string" value="TelegramDesktop"/>
+        <value type="string" value="net.lutris.Lutris"/>
+        <value type="string" value="qBittorrent"/>
+        <value type="string" value="obs"/>
+        <value type="string" value="flameshot"/>
         <value type="string" value="Optimus Manager Qt"/>
         <value type="string" value="remmina-icon"/>
         <value type="string" value="zoom"/>
@@ -141,16 +160,16 @@
       <property name="hover-switch-category" type="bool" value="true"/>
       <property name="button-icon" type="string" value="Lightning_Logo1"/>
       <property name="recent" type="array">
-        <value type="string" value="ccsm.desktop"/>
-        <value type="string" value="compiz-gtk-decorator-theme-selector.desktop"/>
+        <value type="string" value="xfce4-screensaver-preferences.desktop"/>
+        <value type="string" value="xfce4-power-manager-settings.desktop"/>
+        <value type="string" value="x2goclient.desktop"/>
+        <value type="string" value="io.github.edo9300.EDOPro.desktop"/>
+        <value type="string" value="steam-native.desktop"/>
+        <value type="string" value="com.teamviewer.TeamViewer.desktop"/>
         <value type="string" value="discord.desktop"/>
-        <value type="string" value="chromium.desktop"/>
-        <value type="string" value="xfce4-terminal.desktop"/>
-        <value type="string" value="thunar.desktop"/>
-        <value type="string" value="xfce-wmtweaks-settings.desktop"/>
-        <value type="string" value="xfce-wm-settings.desktop"/>
-        <value type="string" value="xfce-session-settings.desktop"/>
-        <value type="string" value="xfce-display-settings.desktop"/>
+        <value type="string" value="filezilla.desktop"/>
+        <value type="string" value="net.lutris.battlenet-2.desktop"/>
+        <value type="string" value="xfce4-mime-settings.desktop"/>
       </property>
     </property>
     <property name="plugin-15" type="string" value="separator">
@@ -160,6 +179,14 @@
       <property name="items" type="array">
         <value type="string" value="17282643611.desktop"/>
       </property>
+    </property>
+    <property name="plugin-4" type="string" value="launcher">
+      <property name="items" type="array">
+        <value type="string" value="17295364663.desktop"/>
+        <value type="string" value="17295362231.desktop"/>
+      </property>
+      <property name="move-first" type="bool" value="true"/>
+      <property name="arrow-position" type="uint" value="5"/>
     </property>
   </property>
 </channel>

@@ -9,17 +9,17 @@ col=3
 row=7
 col=2
 
-[/home/bennji/Desktop/net.lutris.battlenet-2.desktop]
-row=4
-col=2
+[/home/bennji/Desktop/stormos-vida-xfce-desktop-configs]
+row=5
+col=1
 
 [/home/bennji/Desktop/LFS_Hybrid_Installer.desktop]
 row=6
 col=2
 
-[/home/bennji/Desktop/stormos-vida-xfce-desktop-configs]
-row=5
-col=1
+[/home/bennji/Desktop/net.lutris.battlenet-2.desktop]
+row=4
+col=2
 
 [/home/bennji/Desktop/StomOS Package Manager.desktop]
 row=5
@@ -33,6 +33,10 @@ col=1
 row=6
 col=3
 
+[/home/bennji/Desktop/catalyst_stormgenz]
+row=2
+col=0
+
 [/home/bennji/Desktop/StormOS_Python_Manager.desktop]
 row=2
 col=4
@@ -41,33 +45,33 @@ col=4
 row=1
 col=2
 
-[/home/bennji/Desktop/Updates]
-row=3
-col=2
+[/home/bennji/Desktop/BvWinFsp]
+row=1
+col=0
 
 [/home/bennji/Desktop/StormOS-ISO]
 row=4
 col=1
 
-[/home/bennji/Desktop/SWGNB.desktop]
-row=8
-col=4
-
 [/home/bennji/Desktop/StormOS_GitHub_Manager.desktop]
 row=7
 col=3
+
+[/home/bennji/Desktop/SWG-Hopes-Dawn]
+row=7
+col=1
 
 [/home/bennji/Desktop/StormOS_PKG_Converter.desktop]
 row=1
 col=4
 
-[/home/bennji/Desktop/EFI-ASUS-TGL]
-row=4
-col=0
-
 [/home/bennji/Desktop/chrome-mdpkiolbdkhdjpekfbkbmhigcaggjagi-Default.desktop]
 row=5
 col=2
+
+[/home/bennji/Desktop/STAR WARS The Old Republic - Public Test Server.desktop]
+row=4
+col=3
 
 [/home/bennji/Desktop/stormos-build-files]
 row=2
@@ -77,21 +81,21 @@ col=1
 row=0
 col=4
 
-[/home/bennji/Desktop/STAR WARS The Old Republic - Public Test Server.desktop]
-row=4
-col=3
-
 [/home/bennji/Desktop/SmashWG]
 row=8
+col=0
+
+[/home/bennji/Desktop/EFI-ASUS-TGL]
+row=4
 col=0
 
 [/home/bennji/Desktop/SWGEmu]
 row=6
 col=1
 
-[/home/bennji/Desktop/stormos-calamares-config]
-row=6
-col=4
+[/home/bennji/Desktop/Be Cool (2005)]
+row=0
+col=0
 
 [/home/bennji/Desktop/stormos]
 row=1
@@ -101,17 +105,9 @@ col=1
 row=4
 col=4
 
-[/home/bennji/Desktop/stormos-PKGBUILDs]
-row=7
-col=4
-
 [/home/bennji/Desktop/stormos-kernel-manager.desktop]
 row=8
 col=3
-
-[/home/bennji/Desktop/SWG-Hopes-Dawn]
-row=7
-col=1
 
 [/home/bennji/Desktop/Gentoo]
 row=7
@@ -121,13 +117,9 @@ col=0
 row=3
 col=1
 
-[/home/bennji/Desktop/Be Cool (2005)]
-row=0
-col=0
-
-[/home/bennji/Desktop/catalyst_stormgenz]
-row=2
-col=0
+[/home/bennji/Desktop/Updates]
+row=3
+col=2
 
 [/home/bennji/Desktop/StormOS_Recorder.desktop]
 row=3
@@ -137,21 +129,21 @@ col=4
 row=0
 col=3
 
-[/home/bennji/Desktop/SWG-Origins-NGE.zip]
-row=5
-col=4
-
 [/home/bennji/Desktop/SWG-Origins]
 row=0
 col=2
 
-[/home/bennji/Desktop/ Play Swg Hopes Dawn.lnk]
-row=2
-col=3
+[/home/bennji/Desktop/SWG-Origins-NGE.zip]
+row=5
+col=4
 
 [/home/bennji/Desktop/StarWarsGalaxies]
 row=0
 col=1
+
+[/home/bennji/Desktop/ Play Swg Hopes Dawn.lnk]
+row=2
+col=3
 
 [/home/bennji/Desktop/EOD]
 row=6
@@ -161,23 +153,19 @@ col=0
 row=3
 col=3
 
-[/home/bennji/Desktop/EFI-amd]
-row=3
+[/home/bennji/Desktop/EFI-HP]
+row=5
 col=0
 
 [/home/bennji/Desktop/SWG Phoenix]
 row=2
 col=2
 
-[/home/bennji/Desktop/BvWinFsp]
-row=1
-col=0
-
 [/home/bennji/Desktop/pdf2.pdf]
 row=8
 col=2
 
-[/home/bennji/Desktop/EFI-HP]
-row=5
+[/home/bennji/Desktop/EFI-amd]
+row=3
 col=0
 

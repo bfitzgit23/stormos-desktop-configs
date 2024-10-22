@@ -7,7 +7,10 @@
     <property name="logind-handle-power-key" type="bool" value="false"/>
     <property name="logind-handle-suspend-key" type="bool" value="false"/>
     <property name="logind-handle-hibernate-key" type="bool" value="false"/>
-    <property name="brightness-switch-restore-on-exit" type="int" value="0"/>
+    <property name="brightness-switch-restore-on-exit" type="int" value="1"/>
     <property name="brightness-switch" type="int" value="0"/>
+    <property name="brightness-on-battery" type="uint" value="9"/>
+    <property name="blank-on-battery" type="int" value="1"/>
+    <property name="dpms-on-battery-sleep" type="uint" value="6"/>
   </property>
 </channel>

@@ -6,7 +6,7 @@
     <property name="Virtual1" type="string" value="Virtual1">
       <property name="Active" type="bool" value="true"/>
       <property name="EDID" type="string" value=""/>
-      <property name="Resolution" type="string" value="1920x980"/>
+      <property name="Resolution" type="string" value="1920x1080"/>
       <property name="RefreshRate" type="double" value="60"/>
       <property name="Rotation" type="int" value="0"/>
       <property name="Reflection" type="string" value="0"/>
@@ -51,40 +51,6 @@
       </property>
       <property name="Position" type="empty">
         <property name="X" type="int" value="0"/>
-        <property name="Y" type="int" value="0"/>
-      </property>
-    </property>
-    <property name="eDP-1-1" type="string" value="Laptop">
-      <property name="Active" type="bool" value="true"/>
-      <property name="EDID" type="string" value="c78a78eb39d81b9f420cc71d1b2e698f06e4cc1f"/>
-      <property name="Resolution" type="string" value="1920x1080"/>
-      <property name="RefreshRate" type="double" value="144.00016237720223"/>
-      <property name="Rotation" type="int" value="0"/>
-      <property name="Reflection" type="string" value="0"/>
-      <property name="Primary" type="bool" value="false"/>
-      <property name="Scale" type="empty">
-        <property name="X" type="double" value="1"/>
-        <property name="Y" type="double" value="1"/>
-      </property>
-      <property name="Position" type="empty">
-        <property name="X" type="int" value="0"/>
-        <property name="Y" type="int" value="0"/>
-      </property>
-    </property>
-    <property name="HDMI-1-1" type="string" value="Samsung Electric Company 64&quot;">
-      <property name="Active" type="bool" value="true"/>
-      <property name="EDID" type="string" value="4e80b2edc99cd428cfd93c25cd5c410aab6df265"/>
-      <property name="Resolution" type="string" value="1920x1080"/>
-      <property name="RefreshRate" type="double" value="120"/>
-      <property name="Rotation" type="int" value="0"/>
-      <property name="Reflection" type="string" value="0"/>
-      <property name="Primary" type="bool" value="false"/>
-      <property name="Scale" type="empty">
-        <property name="X" type="double" value="1"/>
-        <property name="Y" type="double" value="1"/>
-      </property>
-      <property name="Position" type="empty">
-        <property name="X" type="int" value="1920"/>
         <property name="Y" type="int" value="0"/>
       </property>
     </property>
@@ -138,40 +104,6 @@
       </property>
       <property name="Position" type="empty">
         <property name="X" type="int" value="0"/>
-        <property name="Y" type="int" value="0"/>
-      </property>
-    </property>
-    <property name="eDP-1-1" type="string" value="Laptop">
-      <property name="Active" type="bool" value="true"/>
-      <property name="EDID" type="string" value="c78a78eb39d81b9f420cc71d1b2e698f06e4cc1f"/>
-      <property name="Resolution" type="string" value="1920x1080"/>
-      <property name="RefreshRate" type="double" value="144.00016237720223"/>
-      <property name="Rotation" type="int" value="0"/>
-      <property name="Reflection" type="string" value="0"/>
-      <property name="Primary" type="bool" value="false"/>
-      <property name="Scale" type="empty">
-        <property name="X" type="double" value="1"/>
-        <property name="Y" type="double" value="1"/>
-      </property>
-      <property name="Position" type="empty">
-        <property name="X" type="int" value="0"/>
-        <property name="Y" type="int" value="0"/>
-      </property>
-    </property>
-    <property name="HDMI-1-1" type="string" value="Samsung Electric Company 64&quot;">
-      <property name="Active" type="bool" value="true"/>
-      <property name="EDID" type="string" value="4e80b2edc99cd428cfd93c25cd5c410aab6df265"/>
-      <property name="Resolution" type="string" value="1920x1080"/>
-      <property name="RefreshRate" type="double" value="120"/>
-      <property name="Rotation" type="int" value="0"/>
-      <property name="Reflection" type="string" value="0"/>
-      <property name="Primary" type="bool" value="false"/>
-      <property name="Scale" type="empty">
-        <property name="X" type="double" value="1"/>
-        <property name="Y" type="double" value="1"/>
-      </property>
-      <property name="Position" type="empty">
-        <property name="X" type="int" value="1920"/>
         <property name="Y" type="int" value="0"/>
       </property>
     </property>

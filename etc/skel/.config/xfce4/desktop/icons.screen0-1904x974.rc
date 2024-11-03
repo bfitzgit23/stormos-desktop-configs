@@ -21,6 +21,10 @@ col=0
 row=6
 col=0
 
+[/home/test/Desktop/xfce4.tar.gz]
+row=7
+col=0
+
 [/home/test/Desktop/StomOS Package Manager.desktop]
 row=4
 col=0
@@ -36,4 +40,8 @@ col=0
 [/home/test/Desktop/system-tool.desktop]
 row=3
 col=0
+
+[/home/test/Desktop/stormos-vida-xfce-desktop-configs]
+row=2
+col=1
 

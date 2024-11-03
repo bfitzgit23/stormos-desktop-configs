@@ -13,12 +13,16 @@ col=1
 row=1
 col=1
 
-[/home/test/Desktop/StormOS_mirrors.desktop]
-row=2
-col=0
-
 [/home/test/Desktop/stormos-build-files]
 row=6
+col=0
+
+[/home/test/Desktop/xfce4.tar.gz]
+row=7
+col=0
+
+[/home/test/Desktop/StormOS_mirrors.desktop]
+row=2
 col=0
 
 [/home/test/Desktop/StomOS Package Manager.desktop]
@@ -36,4 +40,8 @@ col=0
 [/home/test/Desktop/system-tool.desktop]
 row=3
 col=0
+
+[/home/test/Desktop/stormos-vida-xfce-desktop-configs]
+row=2
+col=1
 

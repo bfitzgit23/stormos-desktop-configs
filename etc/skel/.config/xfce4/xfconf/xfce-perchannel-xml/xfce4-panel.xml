@@ -29,6 +29,7 @@
         <value type="int" value="12"/>
         <value type="int" value="13"/>
         <value type="int" value="14"/>
+        <value type="int" value="16"/>
       </property>
       <property name="length-adjust" type="bool" value="true"/>
       <property name="background-style" type="uint" value="1"/>
@@ -159,6 +160,8 @@
       <property name="hover-switch-category" type="bool" value="true"/>
       <property name="button-icon" type="string" value="Lightning_Logo1"/>
       <property name="recent" type="array">
+        <value type="string" value="kdesystemsettings.desktop"/>
+        <value type="string" value="xfce-settings-manager.desktop"/>
         <value type="string" value="xfce-session-settings.desktop"/>
         <value type="string" value="thunar.desktop"/>
         <value type="string" value="org.manjaro.pamac.manager.desktop"/>
@@ -167,8 +170,6 @@
         <value type="string" value="system-tool.desktop"/>
         <value type="string" value="xfce4-terminal.desktop"/>
         <value type="string" value="xfce-ui-settings.desktop"/>
-        <value type="string" value="xfce-display-settings.desktop"/>
-        <value type="string" value="chromium.desktop"/>
       </property>
     </property>
     <property name="plugin-15" type="string" value="separator">
@@ -180,5 +181,14 @@
       </property>
     </property>
     <property name="plugin-4" type="string" value="docklike"/>
+    <property name="plugin-16" type="string" value="launcher">
+      <property name="items" type="array">
+        <value type="string" value="17307405811.desktop"/>
+        <value type="string" value="17307406692.desktop"/>
+      </property>
+      <property name="show-label" type="bool" value="true"/>
+      <property name="arrow-position" type="uint" value="5"/>
+      <property name="move-first" type="bool" value="true"/>
+    </property>
   </property>
 </channel>

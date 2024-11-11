@@ -9,8 +9,24 @@ col=0
 row=2
 col=0
 
+[/home/ben/Desktop/steam.desktop]
+row=7
+col=0
+
+[/home/ben/Desktop/StormOS_Recorder.desktop]
+row=4
+col=0
+
 [/home/ben/Desktop/system-tool.desktop]
 row=5
+col=0
+
+[/home/ben/Desktop/StormOS_Python_Manager.desktop]
+row=6
+col=0
+
+[/home/ben/Desktop/StormOS-ISO]
+row=8
 col=0
 
 [/home/ben/Desktop/StormOS_mirrors.desktop]
@@ -21,11 +37,11 @@ col=0
 row=3
 col=0
 
-[/home/ben/Desktop/StormOS_Recorder.desktop]
-row=4
-col=0
+[/home/ben/Desktop/StormOS_Nvidia_Launcher.desktop]
+row=1
+col=1
 
-[/home/ben/Desktop/StormOS_Python_Manager.desktop]
-row=6
-col=0
+[/home/ben/Desktop/stormos-build-files]
+row=0
+col=1
 

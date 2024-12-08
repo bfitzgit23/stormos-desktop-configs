@@ -3,7 +3,6 @@
 <channel name="xfce4-screensaver" version="1.0">
   <property name="saver" type="empty">
     <property name="mode" type="int" value="0"/>
-    <property name="enabled" type="bool" value="false"/>
   </property>
   <property name="lock" type="empty">
     <property name="embedded-keyboard" type="empty">
@@ -11,6 +10,5 @@
       <property name="command" type="string" value="onboard -e"/>
       <property name="displayed" type="bool" value="true"/>
     </property>
-    <property name="enabled" type="bool" value="false"/>
   </property>
 </channel>

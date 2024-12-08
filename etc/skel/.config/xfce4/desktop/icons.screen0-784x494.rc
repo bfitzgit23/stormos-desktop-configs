@@ -2,12 +2,12 @@
 4.10.3+=true
 
 [/home/vbox/Desktop/system-tool.desktop]
-row=5
-col=0
+row=3
+col=1
 
 [/home/vbox/Desktop/StormOS_Recorder.desktop]
-row=6
-col=0
+row=0
+col=2
 
 [/home/vbox/Desktop/stormos-kernel-manager.desktop]
 row=0
@@ -18,12 +18,12 @@ row=2
 col=0
 
 [/home/vbox/Desktop/StormOS_Browser.desktop]
-row=7
-col=0
+row=1
+col=2
 
 [/home/vbox/Desktop/StormOS_Python_Manager.desktop]
-row=4
-col=0
+row=2
+col=1
 
 [/home/vbox/Desktop/StormOS_mirrors.desktop]
 row=3
@@ -34,8 +34,8 @@ row=1
 col=0
 
 [/home/vbox/Desktop/StormOS-ISO]
-row=8
-col=0
+row=1
+col=1
 
 [/home/vbox/Desktop/stormos-build-files]
 row=0

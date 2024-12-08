@@ -18,8 +18,8 @@ row=2
 col=0
 
 [/home/vbox/Desktop/StormOS_Browser.desktop]
-row=7
-col=0
+row=2
+col=1
 
 [/home/vbox/Desktop/StormOS_Python_Manager.desktop]
 row=4
@@ -34,8 +34,8 @@ row=1
 col=0
 
 [/home/vbox/Desktop/StormOS-ISO]
-row=8
-col=0
+row=1
+col=1
 
 [/home/vbox/Desktop/stormos-build-files]
 row=0

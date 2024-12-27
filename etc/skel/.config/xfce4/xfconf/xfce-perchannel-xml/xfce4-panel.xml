@@ -1,21 +1,20 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.1" encoding="UTF-8"?>
 
 <channel name="xfce4-panel" version="1.0">
   <property name="configver" type="int" value="2"/>
   <property name="panels" type="array">
     <value type="int" value="1"/>
-    <value type="int" value="2"/>
     <property name="panel-1" type="empty">
-      <property name="position" type="string" value="p=6;x=960;y=20"/>
+      <property name="position" type="string" value="p=8;x=640;y=782"/>
       <property name="length" type="uint" value="100"/>
       <property name="position-locked" type="bool" value="true"/>
       <property name="icon-size" type="uint" value="0"/>
-      <property name="size" type="uint" value="42"/>
+      <property name="size" type="uint" value="34"/>
       <property name="plugin-ids" type="array">
         <value type="int" value="7"/>
-        <value type="int" value="1"/>
         <value type="int" value="22"/>
         <value type="int" value="19"/>
+        <value type="int" value="1"/>
         <value type="int" value="15"/>
         <value type="int" value="17"/>
         <value type="int" value="2"/>
@@ -41,22 +40,6 @@
       </property>
     </property>
     <property name="dark-mode" type="bool" value="false"/>
-    <property name="panel-2" type="empty">
-      <property name="position" type="string" value="p=12;x=928;y=1055"/>
-      <property name="size" type="uint" value="48"/>
-      <property name="position-locked" type="bool" value="true"/>
-      <property name="length" type="double" value="1"/>
-      <property name="background-style" type="uint" value="1"/>
-      <property name="background-rgba" type="array">
-        <value type="double" value="0"/>
-        <value type="double" value="0"/>
-        <value type="double" value="0"/>
-        <value type="double" value="0.80000000000000004"/>
-      </property>
-      <property name="plugin-ids" type="array">
-        <value type="int" value="4"/>
-      </property>
-    </property>
   </property>
   <property name="plugins" type="empty">
     <property name="plugin-2" type="string" value="tasklist">
@@ -81,12 +64,16 @@
       </property>
       <property name="icon-size" type="int" value="0"/>
       <property name="known-legacy-items" type="array">
+        <value type="string" value="wi-fi network connection “spectrumsetup-3891” active: spectrumsetup-3891 (64%)"/>
         <value type="string" value="pamac-tray"/>
         <value type="string" value="ethernet network connection “wired connection 1” active"/>
         <value type="string" value="no network connection"/>
         <value type="string" value="networkmanager applet"/>
       </property>
       <property name="known-items" type="array">
+        <value type="string" value="stacer"/>
+        <value type="string" value="hp-systray"/>
+        <value type="string" value="obs"/>
         <value type="string" value="Optimus Manager Qt"/>
         <value type="string" value="remmina-icon"/>
         <value type="string" value="zoom"/>
@@ -101,7 +88,7 @@
     <property name="plugin-8" type="string" value="pulseaudio">
       <property name="enable-keyboard-shortcuts" type="bool" value="true"/>
       <property name="show-notifications" type="bool" value="true"/>
-      <property name="known-players" type="string" value="Chromium;Vivaldi;vlc"/>
+      <property name="known-players" type="string" value="Brave;Chromium;Vivaldi;vlc"/>
     </property>
     <property name="plugin-9" type="string" value="power-manager-plugin"/>
     <property name="plugin-10" type="string" value="notification-plugin"/>
@@ -160,15 +147,15 @@
       <property name="button-icon" type="string" value="Lightning_Logo1"/>
       <property name="recent" type="array">
         <value type="string" value="compiz-gtk-decorator-theme-selector.desktop"/>
-        <value type="string" value="xfce-display-settings.desktop"/>
-        <value type="string" value="xfce4-terminal.desktop"/>
-        <value type="string" value="kdesystemsettings.desktop"/>
-        <value type="string" value="xfce-settings-manager.desktop"/>
+        <value type="string" value="discord.desktop"/>
+        <value type="string" value="virtualbox.desktop"/>
+        <value type="string" value="org.keepassxc.KeePassXC.desktop"/>
+        <value type="string" value="stacer.desktop"/>
+        <value type="string" value="io.github.edo9300.EDOPro.desktop"/>
+        <value type="string" value="xfce-ui-settings.desktop"/>
+        <value type="string" value="system-config-printer.desktop"/>
+        <value type="string" value="hplip.desktop"/>
         <value type="string" value="xfce-session-settings.desktop"/>
-        <value type="string" value="thunar.desktop"/>
-        <value type="string" value="org.manjaro.pamac.manager.desktop"/>
-        <value type="string" value="gparted.desktop"/>
-        <value type="string" value="org.xfce.mousepad.desktop"/>
       </property>
     </property>
     <property name="plugin-15" type="string" value="separator">
@@ -176,9 +163,8 @@
     </property>
     <property name="plugin-1" type="string" value="launcher">
       <property name="items" type="array">
-        <value type="string" value="17282643611.desktop"/>
+        <value type="string" value="17352518751.desktop"/>
       </property>
     </property>
-    <property name="plugin-4" type="string" value="docklike"/>
   </property>
 </channel>

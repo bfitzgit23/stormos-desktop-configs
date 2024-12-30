@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=StormOS ISO Builder
+Comment=Build StormOS
+Exec=/usr/bin/sib
+Icon=run-build
+Path=
+Terminal=false
+StartupNotify=false

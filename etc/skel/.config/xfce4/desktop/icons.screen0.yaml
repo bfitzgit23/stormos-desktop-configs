@@ -45,3 +45,76 @@ configs:
     "/home/ricki/Desktop/StormOS-Pescado-XFCE-2024.12.26-x86_64.iso":
       row: 0
       col: 4
+- level: 0
+  monitors:
+  - id: "bd4586e4497d69c4858f7e8bf6d6f8c31b59d3a3"
+    display_name: "Najing CEC Panda FPD Technology CO. ltd 0x004D (eDP-1)"
+    geometry:
+      x: 0
+      y: 0
+      width: 1920
+      height: 1080
+  icons:
+    "/home/ben/Desktop/StomOS Package Manager.desktop":
+      row: 0
+      col: 0
+    "/home/ben/Desktop/StormOS_Nvidia_Launcher.desktop":
+      row: 6
+      col: 0
+    "/home/ben/Desktop/StormOS_Download_Manager.desktop":
+      row: 2
+      col: 0
+    "/home/test/Desktop/StormOS_Python_Manager.desktop":
+      row: 0
+      col: 0
+    "/home/ben/Desktop/system-tool.desktop":
+      row: 0
+      col: 1
+    "/home/test/Desktop/StormOS_Recorder.desktop":
+      row: 1
+      col: 1
+    "/home/test/Desktop/system-tool.desktop":
+      row: 3
+      col: 0
+    "/home/ben/Desktop/StormOS_Recorder.desktop":
+      row: 8
+      col: 0
+    "/home/test/Desktop/stormos-kernel-manager.desktop":
+      row: 1
+      col: 0
+    "/home/test/Desktop/StormOS_mirrors.desktop":
+      row: 2
+      col: 0
+    "/home/test/Desktop/stormos-build-files":
+      row: 6
+      col: 0
+    "/home/ben/Desktop/calamares.desktop":
+      row: 0
+      col: 1
+    "/home/test/Desktop/StomOS Package Manager.desktop":
+      row: 4
+      col: 0
+    "/home/ben/Desktop/StormOS_Python_Manager.desktop":
+      row: 7
+      col: 0
+    "/home/ben/Desktop/StormOS ISO Builder.desktop":
+      row: 3
+      col: 0
+    "/home/ben/Desktop/stormos-kernel-manager.desktop":
+      row: 4
+      col: 0
+    "/home/ben/Desktop/StormOS_mirrors.desktop":
+      row: 5
+      col: 0
+    "/home/ben/Desktop/abif.desktop":
+      row: 1
+      col: 0
+    "/home/test/Desktop/StormOS_Download_Manager.desktop":
+      row: 0
+      col: 1
+    "/home/test/Desktop/StormOS-ISO":
+      row: 5
+      col: 0
+    "/home/ben/Desktop/StormOS_Browser.desktop":
+      row: 1
+      col: 0

@@ -14,8 +14,8 @@
         <value type="int" value="7"/>
         <value type="int" value="22"/>
         <value type="int" value="19"/>
-        <value type="int" value="1"/>
         <value type="int" value="15"/>
+        <value type="int" value="1"/>
         <value type="int" value="17"/>
         <value type="int" value="2"/>
         <value type="int" value="3"/>
@@ -146,13 +146,9 @@
       <property name="hover-switch-category" type="bool" value="true"/>
       <property name="button-icon" type="string" value="Lightning_Logo1"/>
       <property name="recent" type="array">
+        <value type="string" value="xfce-ui-settings.desktop"/>
         <value type="string" value="compiz-gtk-decorator-theme-selector.desktop"/>
         <value type="string" value="discord.desktop"/>
-        <value type="string" value="virtualbox.desktop"/>
-        <value type="string" value="org.keepassxc.KeePassXC.desktop"/>
-        <value type="string" value="stacer.desktop"/>
-        <value type="string" value="io.github.edo9300.EDOPro.desktop"/>
-        <value type="string" value="xfce-ui-settings.desktop"/>
         <value type="string" value="system-config-printer.desktop"/>
         <value type="string" value="hplip.desktop"/>
         <value type="string" value="xfce-session-settings.desktop"/>
@@ -163,7 +159,7 @@
     </property>
     <property name="plugin-1" type="string" value="launcher">
       <property name="items" type="array">
-        <value type="string" value="17352518751.desktop"/>
+        <value type="string" value="17394352791.desktop"/>
       </property>
     </property>
   </property>

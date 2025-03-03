@@ -22,7 +22,7 @@ git push -uf origin main
 
 ## Integrate with your tools
 
-- [ ] [Set up project integrations](https://gitlab.com/storm-os/AcreetionOS-XFCE-vida-xfce-desktop-configs/-/settings/integrations)
+- [ ] [Set up project integrations](https://gitlab.com/storm-os/AcreetionOS-XFCE-xfce-desktop-configs/-/settings/integrations)
 
 ## Collaborate with your team
 

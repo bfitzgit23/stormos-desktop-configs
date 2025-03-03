@@ -1,4 +1,4 @@
-pkgname=acreetionos--xfce-desktop-configs
+pkgname=acreetionos-xfce-desktop-configs
 _destname1="/etc"
 pkgver=2
 pkgrel=2

@@ -48,6 +48,8 @@
     <property name="plugin-6" type="string" value="systray">
       <property name="square-icons" type="bool" value="true"/>
       <property name="known-legacy-items" type="array">
+        <value type="string" value="pamac-tray"/>
+        <value type="string" value="wi-fi network connection “spirit-of-76” active: spirit-of-76 (57%)"/>
         <value type="string" value="wi-fi network connection “spirit-of-76” active: spirit-of-76 (50%)"/>
         <value type="string" value="wi-fi network connection “spirit-of-76” active: spirit-of-76 (44%)"/>
         <value type="string" value="blueberry-tray.py"/>
@@ -55,6 +57,7 @@
         <value type="string" value="no network connection"/>
       </property>
       <property name="known-items" type="array">
+        <value type="string" value="steam"/>
         <value type="string" value="blueman"/>
         <value type="string" value="chrome_status_icon_1"/>
       </property>
@@ -74,20 +77,26 @@
       <property name="category-icon-size" type="int" value="2"/>
       <property name="menu-opacity" type="int" value="90"/>
       <property name="recent" type="array">
-        <value type="string" value="gimp.desktop"/>
-        <value type="string" value="xfce-backdrop-settings.desktop"/>
-        <value type="string" value="x2goclient.desktop"/>
         <value type="string" value="chromium.desktop"/>
-        <value type="string" value="xfce-wm-settings.desktop"/>
-        <value type="string" value="xfce-workspaces-settings.desktop"/>
-        <value type="string" value="xfce4-terminal.desktop"/>
-        <value type="string" value="xfce-ui-settings.desktop"/>
-        <value type="string" value="org.pulseaudio.pavucontrol.desktop"/>
+        <value type="string" value="steam-native.desktop"/>
+        <value type="string" value="x2goclient.desktop"/>
+        <value type="string" value="org.manjaro.pamac.manager.desktop"/>
+        <value type="string" value="nvidia-settings.desktop"/>
+        <value type="string" value="STAR WARS The Old Republic.desktop"/>
+        <value type="string" value="xfce4-screenshooter.desktop"/>
+        <value type="string" value="xfce4-taskmanager.desktop"/>
         <value type="string" value="discord.desktop"/>
+        <value type="string" value="org.pulseaudio.pavucontrol.desktop"/>
       </property>
       <property name="button-icon" type="string" value="logo_with_background-min"/>
       <property name="show-button-title" type="bool" value="true"/>
       <property name="button-title" type="string" value="Start"/>
+      <property name="favorites" type="array">
+        <value type="string" value="xfce4-web-browser.desktop"/>
+        <value type="string" value="xfce4-mail-reader.desktop"/>
+        <value type="string" value="xfce4-file-manager.desktop"/>
+        <value type="string" value="xfce4-terminal-emulator.desktop"/>
+      </property>
     </property>
     <property name="plugin-4" type="string" value="notification-plugin"/>
     <property name="plugin-9" type="string" value="indicator"/>

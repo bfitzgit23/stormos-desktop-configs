@@ -74,6 +74,7 @@
       <property name="category-icon-size" type="int" value="2"/>
       <property name="menu-opacity" type="int" value="90"/>
       <property name="recent" type="array">
+        <value type="string" value="gimp.desktop"/>
         <value type="string" value="xfce-backdrop-settings.desktop"/>
         <value type="string" value="x2goclient.desktop"/>
         <value type="string" value="chromium.desktop"/>
@@ -83,7 +84,6 @@
         <value type="string" value="xfce-ui-settings.desktop"/>
         <value type="string" value="org.pulseaudio.pavucontrol.desktop"/>
         <value type="string" value="discord.desktop"/>
-        <value type="string" value="kitty.desktop"/>
       </property>
       <property name="button-icon" type="string" value="logo_with_background-min"/>
       <property name="show-button-title" type="bool" value="true"/>

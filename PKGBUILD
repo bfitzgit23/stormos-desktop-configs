@@ -1,4 +1,4 @@
-pkgname=stormos-vida-xfce-desktop-configs
+pkgname=acreetionos--xfce-desktop-configs
 _destname1="/etc"
 pkgver=1
 pkgrel=1

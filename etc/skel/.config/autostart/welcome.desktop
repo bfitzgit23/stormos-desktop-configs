@@ -1,9 +1,9 @@
 #!/usr/bin/env xdg-open
 [Desktop Entry]
-Name=StormOS Welcome
+Name=AcreetionOS-XFCE Welcome
 GenericName=StormOS Welcome
 X-GNOME-FullName=StormOS Welcome
-Comment=StormOS Welcome
+Comment=AcreetionOS-XFCE Welcome
 Exec=/usr/local/bin/welcome
 Icon=/usr/share/icons/stormos.png
 Terminal=false
@@ -11,3 +11,4 @@ Type=Application
 Categories=GTK;GNOME;Utility;Settings;Security;X-GNOME-Settings-Panel;X-GNOME-SystemSettings;X-Unity-Settings-Panel;X-XFCE-SettingsDialog;X-XFCE-SystemSettings;
 Keywords=tweak;tool;
 StartupNotify=true
+Path=

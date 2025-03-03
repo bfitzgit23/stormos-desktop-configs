@@ -1,4 +1,4 @@
-# stormos-vida-xfce-desktop-configs
+# AcreetionOS-XFCE-xfce-desktop-configs
 
 
 
@@ -15,14 +15,14 @@ Already a pro? Just edit this README.md and make it your own. Want to make it ea
 
 ```
 cd existing_repo
-git remote add origin https://gitlab.com/storm-os/stormos-vida-xfce-desktop-configs.git
+git remote add origin https://gitlab.com/storm-os/AcreetionOS-XFCE-vida-xfce-desktop-configs.git
 git branch -M main
 git push -uf origin main
 ```
 
 ## Integrate with your tools
 
-- [ ] [Set up project integrations](https://gitlab.com/storm-os/stormos-vida-xfce-desktop-configs/-/settings/integrations)
+- [ ] [Set up project integrations](https://gitlab.com/storm-os/AcreetionOS-XFCE-vida-xfce-desktop-configs/-/settings/integrations)
 
 ## Collaborate with your team
 

@@ -1,7 +1,7 @@
 pkgname=acreetionos--xfce-desktop-configs
 _destname1="/etc"
-pkgver=1
-pkgrel=1
+pkgver=2
+pkgrel=2
 pkgdesc="Desktop Config for StormOS-Vida-XFCE"
 arch=('any')
 url="https://github.com/bfitzgit23"

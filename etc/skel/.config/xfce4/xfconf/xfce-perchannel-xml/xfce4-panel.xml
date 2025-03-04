@@ -20,6 +20,8 @@
         <value type="int" value="4"/>
         <value type="int" value="6"/>
         <value type="int" value="7"/>
+        <value type="int" value="11"/>
+        <value type="int" value="10"/>
         <value type="int" value="8"/>
       </property>
       <property name="background-style" type="uint" value="1"/>
@@ -57,6 +59,7 @@
         <value type="string" value="no network connection"/>
       </property>
       <property name="known-items" type="array">
+        <value type="string" value="remmina-icon"/>
         <value type="string" value="steam"/>
         <value type="string" value="blueman"/>
         <value type="string" value="chrome_status_icon_1"/>
@@ -77,15 +80,15 @@
       <property name="category-icon-size" type="int" value="2"/>
       <property name="menu-opacity" type="int" value="90"/>
       <property name="recent" type="array">
-        <value type="string" value="chromium.desktop"/>
-        <value type="string" value="steam-native.desktop"/>
-        <value type="string" value="x2goclient.desktop"/>
-        <value type="string" value="org.manjaro.pamac.manager.desktop"/>
-        <value type="string" value="nvidia-settings.desktop"/>
+        <value type="string" value="kvantummanager.desktop"/>
         <value type="string" value="STAR WARS The Old Republic.desktop"/>
-        <value type="string" value="xfce4-screenshooter.desktop"/>
-        <value type="string" value="xfce4-taskmanager.desktop"/>
+        <value type="string" value="gparted.desktop"/>
+        <value type="string" value="btop.desktop"/>
+        <value type="string" value="x2goclient.desktop"/>
         <value type="string" value="discord.desktop"/>
+        <value type="string" value="wine-Programs-SWG Hunted Launcher.desktop"/>
+        <value type="string" value="chromium.desktop"/>
+        <value type="string" value="bvnc.desktop"/>
         <value type="string" value="org.pulseaudio.pavucontrol.desktop"/>
       </property>
       <property name="button-icon" type="string" value="logo_with_background-min"/>
@@ -100,5 +103,10 @@
     </property>
     <property name="plugin-4" type="string" value="notification-plugin"/>
     <property name="plugin-9" type="string" value="indicator"/>
+    <property name="plugin-10" type="string" value="pulseaudio">
+      <property name="enable-keyboard-shortcuts" type="bool" value="true"/>
+      <property name="known-players" type="string" value="Chromium"/>
+    </property>
+    <property name="plugin-11" type="string" value="power-manager-plugin"/>
   </property>
 </channel>

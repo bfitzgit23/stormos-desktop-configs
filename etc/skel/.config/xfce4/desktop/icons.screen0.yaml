@@ -32,6 +32,9 @@ configs:
     "/home/bennji/Desktop/Force_Wanderer":
       row: 3
       col: 0
+    "/home/bennji/Desktop/SWGLegendsLauncher":
+      row: 1
+      col: 1
     "/home/bennji/Desktop/SWG Beyond.desktop":
       row: 0
       col: 1

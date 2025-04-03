@@ -1,4 +1,4 @@
-pkgname=acreetionos-xfce-desktop-configs
+pkgname=stormos-desktop-configs
 _destname1="/etc"
 pkgver=3
 pkgrel=3
